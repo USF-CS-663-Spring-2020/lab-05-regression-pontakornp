@@ -1,4 +1,4 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+**Name**:  Pontakorn Pakavaleetorn
+**USF email address**:  ppakavaleetorn@usfca.edu
